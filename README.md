@@ -33,5 +33,3 @@ This project is great for practicing **React hooks, props, conditional rendering
 
 
 
-## 📂 Project Structure
-
